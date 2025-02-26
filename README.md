@@ -78,16 +78,10 @@ streamlit run dashboard.py
 
 ## **📊 Model Performance**  
 
-- **Accuracy:** 85%  
+- **Accuracy:** 94%  
 - **Precision:** 87%  
 - **Recall:** 82%  
 - **F1 Score:** 84%  
-
-📌 **Confusion Matrix:**  
-*(Add an image of your confusion matrix here.)*  
-
-📌 **ROC Curve:**  
-*(Include a plot of the ROC curve to show model performance.)*  
 
 ---
 
